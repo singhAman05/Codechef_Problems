@@ -17,5 +17,6 @@ int main(){
         }
         cout<<minn<<endl;
     }
+    
     return 0;
 }
