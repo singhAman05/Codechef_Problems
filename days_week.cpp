@@ -50,4 +50,5 @@ int main(){
         p[6]={4,"sun"};
         printp(p,n,s);
     }
+    return 0;
 }
